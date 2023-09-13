@@ -2,6 +2,7 @@
 
   ## 📌 Me chamo Paulo
 Sou estudante de análise e desenvolvimento de sistemas pela Impacta. 
+\n
 📝 Gosto de realizar atividades na área de Análise de dados e Desenvolvimento back-end.
 
 :books: Estou estudando sobre:
@@ -13,8 +14,8 @@ Sou estudante de análise e desenvolvimento de sistemas pela Impacta.
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]([LINK_GIT](https://github.com/Meursault92?tab=repositories))
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/paulo-ricardo-24a9351b8/)https://www.linkedin.com/in/paulo-ricardo-24a9351b8/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/Meursault92?tab=repositories)
+\n
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https:www.//linkedin.com/in/paulo-ricardo-24a9351b8/)
+\n\n
 Obrigado pela visita! 👋
