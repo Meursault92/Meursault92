@@ -13,9 +13,9 @@ Sou estudante de análise e desenvolvimento de sistemas pela Impacta.
  
 
 ## Sobre mim
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/Meursault92?tab=repositories)
 \n
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https:www.//linkedin.com/in/paulo-ricardo-24a9351b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/paulo-ricardo-24a9351b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https:www.//linkedin.com/in/)
 \n\n
 Obrigado pela visita! 👋
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/Meursault92?tab=repositories)
